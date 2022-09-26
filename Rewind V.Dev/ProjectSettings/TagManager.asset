@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  - Door
+  - Interactable
+  - Chest
+  - Key
+  - Book
+  - Quest
+  - ItemCanvas
+  - FireCharge
+  - Alter
+  - Tablet
+  - RuneBook
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemies
+  - Ground
+  - Shield
+  - Cursor
+  - Shield
+  - LoadingUI
+  - PropsUI
+  - Book
+  - Dialogue
+  - Letter
+  - Log
+  - ItemCanvas
+  - InventoryCanvas
+  - Note
+  - XPBar
+  - Collections
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
